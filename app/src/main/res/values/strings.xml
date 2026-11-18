@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GhostGuard</string>
+    <string name="a11y_description">Used only to lock the screen when you shake the phone. It does not read your screen.</string>
+</resources>

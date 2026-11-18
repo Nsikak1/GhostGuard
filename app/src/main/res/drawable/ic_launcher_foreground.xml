@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp" android:viewportWidth="108" android:viewportHeight="108">
+    <!-- touch rings -->
+    <path android:strokeColor="#2DD4BF" android:strokeWidth="2.2" android:fillColor="#00000000"
+        android:pathData="M23,54a31,31 0 1,1 62,0a31,31 0 1,1 -62,0" />
+    <path android:strokeColor="#592DD4BF" android:strokeWidth="1.4" android:fillColor="#00000000"
+        android:pathData="M29,54a25,25 0 1,1 50,0a25,25 0 1,1 -50,0" />
+    <!-- ghost-touch marker -->
+    <path android:strokeColor="#CCFB7185" android:strokeWidth="1.2" android:fillColor="#00000000"
+        android:pathData="M67,38a6,6 0 1,1 12,0a6,6 0 1,1 -12,0" />
+    <path android:fillColor="#FB7185" android:pathData="M69.8,38a3.2,3.2 0 1,1 6.4,0a3.2,3.2 0 1,1 -6.4,0" />
+    <!-- ghost -->
+    <path android:fillColor="#F5F7FF"
+        android:pathData="M54,29C44.6,29 37,36.6 37,46L37,66Q42.67,74 48.33,66Q54,74 59.67,66Q65.33,74 71,66L71,46C71,36.6 63.4,29 54,29Z" />
+    <path android:fillColor="#14172B" android:pathData="M44.6,47a3.4,3.4 0 1,1 6.8,0a3.4,3.4 0 1,1 -6.8,0" />
+    <path android:fillColor="#14172B" android:pathData="M56.6,47a3.4,3.4 0 1,1 6.8,0a3.4,3.4 0 1,1 -6.8,0" />
+    <path android:fillColor="#14172B" android:pathData="M51.8,55.5a2.2,2.2 0 1,1 4.4,0a2.2,2.2 0 1,1 -4.4,0" />
+</vector>
